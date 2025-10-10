@@ -1,5 +1,15 @@
 # Time Series Features: Time & Lag Features
 
+## Time Features Example
+
+| ds                 | y  | hour | dayofweek | month |
+|-------------------|----|------|-----------|-------|
+| 2024-06-01 08:00  | 10 | 8    | 5         | 6     |
+| 2024-06-01 14:00  | 12 | 14   | 5         | 6     |
+| 2024-06-02 09:00  | 15 | 9    | 6         | 6     |
+| 2024-06-03 16:00  | 11 | 16   | 0         | 6     |
+
+
 ## Lag Features with NaNs
 ## Lag Features with NaNs
 
